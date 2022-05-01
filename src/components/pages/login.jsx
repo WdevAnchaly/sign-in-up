@@ -49,7 +49,6 @@ const Login = () => {
 			
 		}
 	}
-	console.log("message " + errors.logErr);
 
 	return (
 		<>
